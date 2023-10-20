@@ -13,7 +13,7 @@ class Musica_Screen extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.all(16.0), // Espacio alrededor del texto
             child: Text(
-              'MÚSICA',
+              'LISTA DE CANCIONES',
               style: TextStyle(
                 fontSize: 24, // Tamaño de fuente
                 fontWeight: FontWeight.bold, // Peso de la fuente
